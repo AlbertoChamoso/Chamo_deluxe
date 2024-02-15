@@ -1,0 +1,22 @@
+.comentarios{
+    background-color:$negro ;
+    font-size: 2.4rem;
+    padding: 2rem;
+    color: $blanco;
+    border-radius: 2rem;
+
+    blockqoute{
+        padding-left: 5rem;
+        position: relative;
+
+        &::before{
+            content: '';
+            background-image: url('img/qoutation.png');
+            background-repeat: no-repeat;
+            width: 6rem;
+            height: 8rem;
+            display: block;
+            position: absolute;
+        }
+    }
+}
