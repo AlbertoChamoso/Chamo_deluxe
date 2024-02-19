@@ -5,6 +5,9 @@
     background-image: url(../img/header1.jpg);
 }
 .header {
+
+
+    
     background-color: $negro;
     padding: 1rem 0 1rem 0;
     margin-right: 0rem;
@@ -30,10 +33,11 @@
     flex-direction: column;
     justify-content: space-between;
 
-    h1 {
+    .h1 {
         text-align: left;
         color: $blanco;
         font-weight: $bold;
         line-height: 2;
+        max-width: 0rem;
     }
 }

@@ -6,6 +6,7 @@
 @import 'base/botones';
 
 
+
 /** UI **/
 @import 'layout/header';
 @import 'layout/footer';
@@ -15,11 +16,13 @@
 @import 'layout/contactar';
 @import 'layout/inferior';
 @import 'layout/comentarios';
+@import 'layout/contacto';
+
 
 /** Paginas internas **/
 
 @import 'internas/nosotros';
-
+@import 'internas/entrada';
 
 
 
