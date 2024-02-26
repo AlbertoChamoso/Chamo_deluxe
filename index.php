@@ -140,7 +140,7 @@
 <section class="imagen-contacto contacto">
     <h2>Elige el coche de tus sueños</h2>
     <p>Rellena el formulario para que nuestros asesores contacte con usted lo mas breve posible </p>
-    <a href="contacto.html" class="boton-amarillo">Contactános</a>
+    <a href="contacto.php" class="boton-amarillo">Contactános</a>
     
 </section>
 

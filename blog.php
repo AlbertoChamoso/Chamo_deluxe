@@ -17,7 +17,7 @@
                 </div>
     
                 <div class="texto-entrada">
-                    <a href="entrada.html">
+                    <a href="entrada.php">
                         <h4>Modificaciones a tu gusto</h4>
                         <p>Publicado el: <span>14/02/2024</span>  por :<span>Alberto</span> </p>
                         <p>
@@ -36,7 +36,7 @@
                 </div>
     
                 <div class="texto-entrada">
-                    <a href="entrada.html">
+                    <a href="entrada.php">
                         <h4>Consejos y cursos para pilotar en circuito</h4>
                         <p>Publicado el: <span>14/02/2024</span>  por :<span>Alberto</span> </p>
                         <p>

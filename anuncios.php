@@ -25,7 +25,7 @@
     
                     </ul>
     
-                    <a href="anuncios.html" class="boton-amarillo-block">
+                    <a href="anuncios.php" class="boton-amarillo-block">
                         Ver Vehiculo
                     </a>
                 </div> <!--este es el contenido de los anuncios-->
@@ -50,7 +50,7 @@
         
                         </ul>
         
-                        <a href="anuncios.html" class="boton-amarillo-block">
+                        <a href="anuncios.php" class="boton-amarillo-block">
                             Ver Vehiculo
                         </a>
                     </div> <!--este es el contenido de los anuncios-->
@@ -77,7 +77,7 @@
             
                             </ul>
             
-                            <a href="anuncios.html" class="boton-amarillo-block">
+                            <a href="anuncios.php" class="boton-amarillo-block">
                                 Ver Vehiculo
                             </a>
                         </div> <!--este es el contenido de los anuncios-->
@@ -103,7 +103,7 @@
                 
                                 </ul>
                 
-                                <a href="anuncios.html" class="boton-amarillo-block">
+                                <a href="anuncios.php" class="boton-amarillo-block">
                                     Ver Vehiculo
                                 </a>
                             </div> <!--este es el contenido de los anuncios-->
